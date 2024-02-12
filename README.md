@@ -16,7 +16,7 @@
 
 </div>
 
-### `A passionate Front-end Web Developer from Bangladesh. I'm also learning PERN Stack.`
+### `A passionate Front-end Web Developer from Bangladesh.`
 
 ### `I'm a student of Computer Science And Engineering.`
 
@@ -52,15 +52,19 @@ innovation. Let's build something amazing together.
 
 ##### -💬Ask me about **Web-development related question.**
 
-##### -📫For any Query contact me **sajibbhattacharjee2000@gmail.com**
+##### -📫For any Query contact me **fatemazahanshayla@gmail.com**
 
-##### -📄Know about my experiences [https://sajib-bhattacharjee.github.io/CV-About-Myself/](https://sajib-bhattacharjee.github.io/CV-About-Myself/)
+##### -📄Know about my experiences [https://Fatema-Zahan-Shayla.github.io/CV-About-Myself/](https://Fatema-Zahan-Shayla.github.io/CV-About-Myself/)
 
 <!-- More Details Section Ends Here  -->
 
+
+ 
+
 <!-- Skills Section Starts Here  -->
 
-<div style="text-align:center; background-color: #0F0826; color: white;" >
+
+<div align="center" style="text-align:center; background-color: #0F0826; color: white;" >
 
 ### `Skills:`
 
@@ -79,6 +83,7 @@ innovation. Let's build something amazing together.
 </div>
 
 <!-- Skills Section Ends Here  -->
+
 
 <!-- Other Experiences Section Starts Here  -->
 
@@ -124,7 +129,7 @@ innovation. Let's build something amazing together.
 <!-- Sports and games section ends here  -->
 
 <!-- Contact Me section Starts here  -->
-<div style="text-align: center; background-color: #0F0826;">
+<div align="center" style="text-align: center; background-color: #0F0826;">
 
 ### `Contact Me:`
 
@@ -134,7 +139,7 @@ innovation. Let's build something amazing together.
 <!-- Contact Me section Ends here  -->
 
 <!-- GitHub Most Uses Language Section Starts Here  -->
-<div style="text-align: center; background-color: #0F0826;">
+<div align="center" style="text-align: center; background-color: #0F0826;">
 
 ### `Most Usages Languages`
 
@@ -146,7 +151,7 @@ innovation. Let's build something amazing together.
 
 <!-- GitHub State Section Starts Here  -->
 
-<div style="text-align: center; background-color: #0F0826;">
+<div align="center" style="text-align: center; background-color: #0F0826;">
 
 ### `GitHub States:`
 
@@ -158,7 +163,7 @@ innovation. Let's build something amazing together.
 
 <!-- GitHub Matrix Section Starts Here  -->
 
-<div style="text-align: center; background-color: #0F0826;">
+<div align="center" style="text-align: center; background-color: #0F0826;">
 
 ### `GitHub Metrics:`
 
@@ -170,7 +175,7 @@ innovation. Let's build something amazing together.
 
 <!-- GitHub Streak Section Starts Here  -->
 
-<div style="text-align: center; background-color: #0F0826;">
+<div align="center" style="text-align: center; background-color: #0F0826;">
 
 ### `GitHub Streak States:`
 
@@ -181,7 +186,7 @@ innovation. Let's build something amazing together.
 <!-- GitHub Streak Section Ends Here  -->
 
 <!-- GitHub More Details Section Starts Here  -->
-<div style="text-align: center; background-color: #0F0826;">
+<div align="center" style="text-align: center; background-color: #0F0826;">
 
 ### `More Details:  `
 
@@ -191,7 +196,7 @@ innovation. Let's build something amazing together.
 <!-- GitHub More Details Section Starts Here  -->
 
 <!-- Profile View Section Starts Here  -->
-<div style="text-align: center; background-color: #0F0826;">
+<div align="center" style="text-align: center; background-color: #0F0826;">
 
 ### `GitHub Profile Views: `
 
@@ -211,7 +216,7 @@ innovation. Let's build something amazing together.
 
 #### `All rights reserved by Fatema Zahan Shayla @2024`
 
-<div style="text-align: center; background-color: #0F0826; padding: 10px">
+<div align="center" style="text-align: center; background-color: #0F0826; padding: 10px">
 
 ### `Created By-->`
 
@@ -225,4 +230,10 @@ innovation. Let's build something amazing together.
   
 </div>
 
+
+ 
+
 <!-- Dedication and Footer Section Ends Here -->
+
+
+
